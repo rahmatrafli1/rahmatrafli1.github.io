@@ -1,0 +1,11 @@
+h1 {
+  font-size: 25px;
+  color: blue;
+  font-style: normal;
+  font-family: Comic Sans Ms;
+}
+p {
+  font-size: 14px;
+  color: red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
